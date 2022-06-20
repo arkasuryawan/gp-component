@@ -1,6 +1,6 @@
 {
     "name": "@arkasuryawan/gp-component",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Geonet Properties React Component Libary",
     "scripts": {
         "rollup": "rollup -c"
