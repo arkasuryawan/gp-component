@@ -1,13 +1,13 @@
 {
     "name": "@arkasuryawan/gp-component",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "description": "Geonet Properties React Component Libary",
     "scripts": {
         "rollup": "rollup -c"
     },
     "repository": {
         "type": "git",
-        "url": "gp-component"
+        "url": "https://github.com/arkasuryawan/gp-component"
     },
     "keywords": [
         "geonet",
@@ -23,6 +23,7 @@
         "react": "^18.2.0",
         "rollup": "^2.75.7",
         "rollup-plugin-dts": "^4.2.2",
+        "rollup-plugin-postcss": "^4.0.2",
         "typescript": "^4.7.4"
     },
     "dependencies": {
